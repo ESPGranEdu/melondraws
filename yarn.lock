@@ -1653,14 +1653,7 @@ toidentifier@1.0.1:
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.1.tgz#3be34321a88a820ed1bd80dfaa33e479fbb8dd35"
   integrity sha512-o5sSPKEkg/DIQNmH43V0/uerLrpzVedkUh8tGNvaeXpfpuwjKenlSox/2O/BTlZUtEe+JG7s5YhEz608PlAHRA==
 
-tsparticles-shape-confetti@^1.14.2:
-  version "1.14.2"
-  resolved "https://registry.yarnpkg.com/tsparticles-shape-confetti/-/tsparticles-shape-confetti-1.14.2.tgz#202cf1d981ae231404f5e3e798b2e26d0ca45761"
-  integrity sha512-JKS8GcAJX54b5xD4m/CkZaiQ7E3oBPQcpr4oAJOVrWIFWekEgEnYlHIIsNgb7hzAoUFeEJqYSu/rkRNnM5/+UQ==
-  dependencies:
-    tsparticles "^1.29.2"
-
-tsparticles@^1.29.2, tsparticles@^1.30.2, tsparticles@^1.43.1:
+tsparticles@^1.43.1:
   version "1.43.1"
   resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.43.1.tgz#1f6b37ee41b6ab043d66a0e20bfe0855a1aea006"
   integrity sha512-6EuHncwqzoyTlUxc11YH8LVlwVUgpYaZD0yMOeA2OvRqFZ9VQV8EjjQ6ZfXt6pfGA1ObPwU929jveFatxwTQkg==
