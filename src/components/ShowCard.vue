@@ -1,6 +1,4 @@
 <template>
-	<Confetti />
-
 	<div class="card">
 		<h1>Ganador !!!</h1>
 
@@ -13,7 +11,6 @@
 
 <script>
 import { defineComponent } from "vue";
-import Confetti from "@components/Confetti.vue";
 import defaultWinnerImage from "@assets/winner.png";
 
 export default defineComponent({
